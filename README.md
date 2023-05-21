@@ -10,7 +10,9 @@ The CSV file (test.csv) contains a small sample of data that serves as input for
 
 Python Code (k-anonymity.py)
 The Python code (e.g., k-anonymity.py) processes the data from the CSV file and calculates the number of travelers that moved from each departure epoch to each arrival epoch. To obtain the output, simply run the k-anonymity.py script.
-
+```
+k-anonymity.py
+```
 Instructions
 Make sure you have Python installed on your machine.
 Download or clone this repository.
