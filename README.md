@@ -2,7 +2,7 @@
 Python implementation of Understanding the protection of privacy when counting subway travelers through anonymization
 
 
-##Counting travelers movement
+## Counting travelers movement
 This repository contains two files: a CSV file and a Python code. These files are used to analyze the movement of travelers between departure epochs and arrival epochs.
 
 Input Data (CSV File)
